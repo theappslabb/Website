@@ -1,0 +1,13 @@
+.menu {
+    margin-top: 100px;
+    position: absolute;
+}
+.background {
+    position: absolute;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 50px;
+}
