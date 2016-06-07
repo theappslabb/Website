@@ -16,6 +16,7 @@
     list-style-type: none;
 }
 .link {
+    text-decoration: none !important;
     color: black;
 }
 .content {
@@ -26,4 +27,5 @@
     width: 40%;
     height: 80%;
     margin-left: 600px;
+    text-align: center
 }

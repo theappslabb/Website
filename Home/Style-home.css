@@ -1,6 +1,6 @@
 .menunav {
     margin-top: 150px;
-    position: relative;
+    position: fixed;
     padding: 0;
     margin-left: 200px;
 }
@@ -16,5 +16,10 @@
     list-style-type: none;
 }
 .link {
+    text-decoration: none !important;
+    color: black;
+}
+.link : visited {
+    text-decoration: none !important;
     color: black;
 }
